@@ -1,5 +1,9 @@
 # Introduction 
 ## Motivation 
+> “Look up at the stars and not down at your feet. Try to
+  make sense of what you see, and wonder about what makes
+  the universe exist. Be curious.” — Stephen Hawking
+
 The use of online services is part of our daily lives. An example of an online services is ,Google, and there is a need for an account touse these services.
 A digital identinty can be represented as an account.
 
@@ -29,3 +33,7 @@ authentication by introducing strong authentication mechanisms for SSI identity 
 but also offline verification of identity data. Besides, we introduce a service that is able
 to combine varying revocation mechanisms for SSI systems. We further evaluate and
 showcase how our improved system can be utilized.
+
+## Methodology
+This thesis follows a methodology detailed in this section and schematically illustrated here: 
+![schematic-structure](https://user-images.githubusercontent.com/60394916/213809208-aa7ef091-337d-4836-a688-3d2a587ca4dd.PNG)
