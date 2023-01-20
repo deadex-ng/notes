@@ -1,5 +1,5 @@
 # notes
-This is an attempt to keep track of my progess of a doctoral thesis: 
+This is an attempt to keep track of my progess on a doctoral thesis: 
 > Qualified Self-Sovereign Identity:
 Addressing the gaps between Self-Sovereign Identity and
 traditional Identity Systems
