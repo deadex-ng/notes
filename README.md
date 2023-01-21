@@ -11,4 +11,6 @@ By Andreas Abraham
   - [Motivation](https://github.com/deadex-ng/notes/blob/main/Introduction.md#motivation)
   - [Methodology](https://github.com/deadex-ng/notes/blob/main/Introduction.md#methodology)
 - [🕹 Identity Management](https://github.com/deadex-ng/notes/blob/main/Identity%20Management.md)
-
+  - [Digital Identity](https://github.com/deadex-ng/notes/blob/main/Identity%20Management.md#digital-identity)
+  - [Identity Management](https://github.com/deadex-ng/notes/blob/main/Identity%20Management.md#identity-management)
+  - [Identity Models](https://github.com/deadex-ng/notes/blob/main/Identity%20Management.md#identity-models)
