@@ -14,3 +14,4 @@ By Andreas Abraham
   - [Digital Identity](https://github.com/deadex-ng/notes/blob/main/Identity%20Management.md#digital-identity)
   - [Identity Management](https://github.com/deadex-ng/notes/blob/main/Identity%20Management.md#identity-management)
   - [Identity Models](https://github.com/deadex-ng/notes/blob/main/Identity%20Management.md#identity-models)
+- [🆔 Self-Sovereign Identity](https://github.com/deadex-ng/notes/blob/main/Self-Sovereign%20Identity.md)
