@@ -1,4 +1,4 @@
-# notes
+# Notes by Fumbani😎
 This is an attempt to keep track of my progess on a doctoral thesis: 
 > Qualified Self-Sovereign Identity:
 Addressing the gaps between Self-Sovereign Identity and
